@@ -5,7 +5,7 @@ which sends and receives via [PyKannel](http://github.com/adammck/pykannel)
 or [PyGnokii](http://github.com/adammck/pygnokii).
 
 
-### A Fairly Typical Session
+### A Fairly Typical Session.
 
 	<< help
 	>> join <GROUP>
@@ -14,8 +14,8 @@ or [PyGnokii](http://github.com/adammck/pygnokii).
        list [my] groups
        list members of <GROUP>
        <GROUP> <MESSAGE>
-    
-	<< list groups
+
+	<< list group's
 	>> Groups: CHICKS, DUDES, ADULTS, DEVS
 	
 	<< join dudes
